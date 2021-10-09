@@ -1,1 +1,24 @@
 
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+	background-color: #C7BEA2;
+	width: 50%;
+	text-align: center;
+	border: 5px outset;
+}
+
+
+.parrafo {
+	background-color: #C7BEA2;
+	padding: 1% 2%;
+	margin: 20px;
+}
+
+.letra_helv {
+	font-family: helvetica;
+}
+
